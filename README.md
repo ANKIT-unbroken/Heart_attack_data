@@ -1,4 +1,4 @@
-# Heart_attack_data_analysis
+# Heart_attack_data_analysis _ Python
 
 In this project I have done data analysis  and visualization on heart_attack_data using python, pandas, matplotlib, seaborn .
 
